@@ -1,5 +1,7 @@
 # yelp-homepage-clone-in-HTML-CSS.
+
 https://www.yelp.com/
+
 This project is a clone of the homepage of the popular review website, Yelp. It is built using HTML and CSS and aims to replicate the overall layout and design of the original site homepage. The clone provides a visually appealing and responsive interface that allows users to search for local businesses, read reviews, and explore various categories and locations.
 
 Key Features:
